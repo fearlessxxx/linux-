@@ -25,7 +25,7 @@ Linux中默认已安装ssh客户端，但是有可能没有安装ssh服务端
    yum list installed | grep openssh #检查是否安装了openssh-client
    ~~~
 
-   ![](https://github.com/fearlessxxx/linux-/blob/master/ssh.assets/image-20200420082836734.png)
+   ![](ssh.assets/image-20200420082836734.png)
 
    如果没有安装
 
